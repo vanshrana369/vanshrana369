@@ -1,4 +1,4 @@
-<h1 align="center">Myself Vivek Yadav
+<h1 align="center">Myself Vansh Rana
    </h1>
  
  
@@ -9,7 +9,7 @@
  
 - 👾 I’m currently learning **DSA in C++** and solving **Leet Code** questions.
 - 🧠 Ask me about **Python, C and C++**
-- 😉 How to reach me **vivekyadavboss2004@gmail.com**
+- 😉 How to reach me **vanshranaglobal@gmail.com**
 <br> <br>
  
 <p align="center">
