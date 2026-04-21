@@ -13,7 +13,7 @@
 <br> <br>
  
 <p align="center">
-  <img src="https://media3.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.gif?cid=82a1493b5398mik14n0jaz2gj28hzvuw685epu0odwbb25iu&ep=v1_gifs_related&rid=200w.gif" 
+  <img src="https://64.media.tumblr.com/51a93f6c5efdfc7197d8515dc4c82686/5bd8f1f87bd40b46-03/s540x810/87666c5f5b0132fc33367391c7ba99827087d64e.gifv" 
        style="height: 350px; width: 450px; border-radius: 20px;" />
 </p>
  
