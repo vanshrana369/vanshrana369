@@ -21,7 +21,7 @@
 <h3 align="left">Add me up here:</h3> 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/vanshrana369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekyadav23998" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vanshrana369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekyadav23998" height="50" width="70" /></a>
 </p>
  
  
