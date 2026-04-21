@@ -14,7 +14,7 @@
  
 <p align="center">
   <img src="https://64.media.tumblr.com/51a93f6c5efdfc7197d8515dc4c82686/5bd8f1f87bd40b46-03/s540x810/87666c5f5b0132fc33367391c7ba99827087d64e.gif" 
-       style="height: 350px; width: 450px; border-radius: 20px;" />
+       width="450" height="350" />
 </p>
  
  
