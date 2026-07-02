@@ -7,14 +7,11 @@
  
  
  
-- 👾 I’m currently learning **Machine Learning** and **DSA in C++** and solving **Leet Code** questions.
+- 👾 I’m currently learning **Data Analysis** and **DSA in C++** and solving **Leet Code** questions.
 - 🧠 Ask me about **Python, C and C++**
 - 😉 How to reach me **vanshranaglobal@gmail.com**
 <br> <br>
  
-<p align="center">
-  <img src="fightclub1.gif.gif" width="450" height="350" />
-</p>
  
  
  
